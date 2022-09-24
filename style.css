@@ -1,0 +1,38 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: black;
+    color: rgb(228, 161, 66);
+}
+
+.header_div p{
+    font-family: cursive;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.header_div {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:orange;
+    color: white;
+    text-shadow: 2px 2px 2px grey;
+}
+
+button{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    letter-spacing: 10px;
+}
+
+#footer {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:orange;
+    color: white;
+    position: fixed;
+    margin-top: 30px;
+    width: 100%;
+    line-height: 3;
+    text-align: center;
+    letter-spacing: 6px;
+    text-shadow: 2px 2px 2px grey;
+}  
